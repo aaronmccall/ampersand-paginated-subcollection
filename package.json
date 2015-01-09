@@ -1,0 +1,29 @@
+{
+  "name": "ampersand-paginated-subcollection",
+  "description": "ampersand-subcollection with built-in pagination",
+  "version": "0.9.0",
+  "author": "Aaron McCall <aaron@andyet.net>",
+  "bugs": {
+    "url": "https://github.com/aaronmccall/ampersand-paginated-subcollection/issues"
+  },
+  "homepage": "https://github.com/aaronmccall/ampersand-paginated-subcollection",
+  "keywords": [
+    "ampersand",
+    "pagination",
+    "collection",
+    "ampersand-subcollection"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronmccall/ampersand-paginated-subcollection.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ampersand-state": "^4.4.4",
+    "ampersand-subcollection": "^2.0.0"
+  }
+}
